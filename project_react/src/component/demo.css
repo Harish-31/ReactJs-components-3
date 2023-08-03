@@ -1,0 +1,9 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-style: groove;
+}
+.tab{
+    margin-left: 220px;
+    margin-top: 20px;
+}

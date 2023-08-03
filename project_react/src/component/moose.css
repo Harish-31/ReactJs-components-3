@@ -1,0 +1,27 @@
+body{
+    background-color: burlywood;
+  }
+  #heading{
+    background-color: aliceblue;
+  }
+  
+  .image{
+    margin-left: 320px;
+  }
+  
+  .para{
+    position: absolute;
+    margin-left: 595px;
+    margin-top: -140px;
+    font-size: 18px;
+  }
+  .order{
+    margin-left: 20px;
+  }
+  .unorder{
+    margin-left: 20px;
+  }
+  .second{
+    margin-left: 320px;
+  }
+  
